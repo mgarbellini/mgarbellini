@@ -5,7 +5,7 @@ On the side I like to study some Snow Science as well, focusing in particular on
 
 My project:
 - Quantum stuff
-   -fds
+-- Quantum walks with time dependent Hamiltonians and their application to the search problem on graphs.
 
 <!--
 **mgarbellini/mgarbellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
