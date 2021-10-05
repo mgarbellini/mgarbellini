@@ -4,8 +4,8 @@ I am a Theoretical Physics Student at the University of Milan, interested in Ope
 On the side I like to study some Snow Science as well, focusing in particular on Avalanche modelling and risk assestment.
 
 My project:
-- Quantum stuff
--- Quantum walks with time dependent Hamiltonians and their application to the search problem on graphs.
+- Quantum stuff:
+  - Quantum walks with time dependent Hamiltonians and their application to the search problem on graphs.
 
 <!--
 **mgarbellini/mgarbellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
